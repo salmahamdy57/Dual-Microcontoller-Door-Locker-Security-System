@@ -148,3 +148,4 @@ Display options: `+` Open Door, `-` Change Password.
   void EEPROM_readPassword(uint8 *pass);
 
  ### Simulation on Proteus 🖥️
+![image](https://github.com/user-attachments/assets/0eee2664-5c58-49b2-83c9-c1259e5995d3)
